@@ -1,0 +1,25 @@
+participant,run,trial,quality_status,quality_note,include
+1,6,1,Cz visually reviewed,No obvious issue noticed,True
+1,6,2,Cz visually reviewed,No obvious issue noticed,True
+1,6,3,Cz visually reviewed,No obvious issue noticed,True
+1,6,4,Cz visually reviewed,No obvious issue noticed,True
+1,6,5,Cz visually reviewed,No obvious issue noticed,True
+1,6,6,Cz visually reviewed,No obvious issue noticed,True
+1,6,7,Cz visually reviewed,No obvious issue noticed,True
+1,6,8,Cz visually reviewed,No obvious issue noticed,True
+1,10,1,flagged for review,Possibly larger swings during foot imagery,True
+1,10,2,Cz visually reviewed,No obvious issue noticed,True
+1,10,3,Cz visually reviewed,No obvious issue noticed,True
+1,10,4,Cz visually reviewed,No obvious issue noticed,True
+1,10,5,Cz visually reviewed,No obvious issue noticed,True
+1,10,6,Cz visually reviewed,No obvious issue noticed,True
+1,10,7,Cz visually reviewed,No obvious issue noticed,True
+1,10,8,Cz visually reviewed,No obvious issue noticed,True
+1,14,1,Cz visually reviewed,No obvious issue noticed,True
+1,14,2,Cz visually reviewed,No obvious issue noticed,True
+1,14,3,Cz visually reviewed,No obvious issue noticed,True
+1,14,4,Cz visually reviewed,No obvious issue noticed,True
+1,14,5,Cz visually reviewed,No obvious issue noticed,True
+1,14,6,Cz visually reviewed,No obvious issue noticed,True
+1,14,7,Cz visually reviewed,No obvious issue noticed,True
+1,14,8,flagged for review,Shakier appearance during both rest and imagery,True

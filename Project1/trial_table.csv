@@ -1,0 +1,25 @@
+participant,run,trial,cue_s,rest_start_s,rest_end_s,foot_start_s,foot_end_s,rest_label,foot_label,quality_status,extraction_status,exclusion_reason,quality_note,include
+1,6,1,4.2,2.2,4.2,5.2,7.2,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,6,2,29.1,27.1,29.1,30.1,32.1,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,6,3,45.7,43.7,45.7,46.7,48.7,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,6,4,54.0,52.0,54.0,55.0,57.0,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,6,5,78.9,76.9,78.9,79.9,81.9,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,6,6,87.2,85.2,87.2,88.2,90.2,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,6,7,112.1,110.1,112.1,113.1,115.1,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,6,8,120.4,118.4,120.4,121.4,123.4,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,10,1,12.5,10.5,12.5,13.5,15.5,T0,T2,flagged for review,extracted,,Possibly larger swings during foot imagery,True
+1,10,2,20.8,18.8,20.8,21.8,23.8,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,10,3,37.4,35.4,37.4,38.4,40.4,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,10,4,62.3,60.3,62.3,63.3,65.3,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,10,5,70.6,68.6,70.6,71.6,73.6,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,10,6,95.5,93.5,95.5,96.5,98.5,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,10,7,103.8,101.8,103.8,104.8,106.8,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,10,8,120.4,118.4,120.4,121.4,123.4,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,14,1,4.2,2.2,4.2,5.2,7.2,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,14,2,20.8,18.8,20.8,21.8,23.8,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,14,3,45.7,43.7,45.7,46.7,48.7,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,14,4,62.3,60.3,62.3,63.3,65.3,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,14,5,78.9,76.9,78.9,79.9,81.9,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,14,6,87.2,85.2,87.2,88.2,90.2,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,14,7,103.8,101.8,103.8,104.8,106.8,T0,T2,Cz visually reviewed,extracted,,No obvious issue noticed,True
+1,14,8,120.4,118.4,120.4,121.4,123.4,T0,T2,flagged for review,extracted,,Shakier appearance during both rest and imagery,True
