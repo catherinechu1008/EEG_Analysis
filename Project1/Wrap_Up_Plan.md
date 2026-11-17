@@ -8,7 +8,7 @@ rerun it.
 
 | Part | What | Status |
 |---|---|---|
-| A | Concept recap | In progress (concepts 1–5 done) |
+| A | Concept recap | Done (November 16, 2026) |
 | B | Results and limitations write-up | Not started |
 | C | Milestone 5b method check | Optional, decide after B |
 | D | Package the project | Not started |
@@ -31,10 +31,10 @@ questions where possible). After each one, a short section is added to
 | 3 | Spectra: FFT, Welch, bin spacing, Nyquist | Milestone 3 | [x] |
 | 4 | Band power; why count trials instead of trusting one trial | Milestone 3 | [x] |
 | 5 | Decibels; why average ratios first and convert to dB last | Milestone 4 | [x] |
-| 6 | Time–frequency maps; the window-length trade-off | Milestone 4 | [ ] |
-| 7 | Freezing settings and quality rules before seeing new data | Milestone 5 | [ ] |
-| 8 | Bootstrap: within one person vs across people | Milestone 5 | [ ] |
-| 9 | What the result can and can't claim | Milestone 5 | [ ] |
+| 6 | Time–frequency maps; the window-length trade-off | Milestone 4 | [x] |
+| 7 | Freezing settings and quality rules before seeing new data | Milestone 5 | [x] |
+| 8 | Bootstrap: within one person vs across people | Milestone 5 | [x] |
+| 9 | What the result can and can't claim | Milestone 5 | [x] |
 
 **Done when:** I can explain each concept without notes, and
 `notes/concept_recap.md` has all 9 sections.
